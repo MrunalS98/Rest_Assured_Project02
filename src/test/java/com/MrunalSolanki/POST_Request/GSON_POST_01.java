@@ -3,7 +3,6 @@ package com.MrunalSolanki.POST_Request;
 import com.google.gson.annotations.Expose;
 import com.google.gson.annotations.SerializedName;
 
-public class APITestPOST01 {
 
     public class GSON_POST_01{
 
@@ -42,4 +41,4 @@ public class APITestPOST01 {
         }
 
     }
-}
+

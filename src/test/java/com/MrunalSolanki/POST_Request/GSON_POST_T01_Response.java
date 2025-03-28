@@ -3,7 +3,7 @@ package com.MrunalSolanki.POST_Request;
 import com.google.gson.annotations.Expose;
 import com.google.gson.annotations.SerializedName;
 
-public class GSON_POS_T01_Response {
+public class GSON_POST_T01_Response {
 
     @SerializedName("title")
     @Expose
